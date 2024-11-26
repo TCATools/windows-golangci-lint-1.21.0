@@ -1,5 +1,7 @@
 # GolangCI-Lint
 
+The source code of this project is available at: https://github.com/golangci/golangci-lint
+
 [![Build Status](https://travis-ci.com/golangci/golangci-lint.svg?branch=master)](https://travis-ci.com/golangci/golangci-lint)
 [![GolangCI](https://golangci.com/badges/github.com/golangci/golangci-lint.svg)](https://golangci.com)
 
